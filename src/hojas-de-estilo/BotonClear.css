@@ -1,0 +1,21 @@
+.boton-clear {
+  height: 80px;
+  font-size: 1.6em;
+  display: flex;
+  flex: 1;
+  background: linear-gradient(to right, #041a2d, #33003f);
+  margin-top: 8px;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+  border: 3px solid #227456;
+  border-radius: 20px;
+  cursor: pointer;
+  user-select: none;
+  
+}
+
+.boton-clear:hover {
+  background: linear-gradient(to right, #e90808, #2266db);
+}
